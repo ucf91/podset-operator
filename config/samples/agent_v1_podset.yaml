@@ -1,0 +1,7 @@
+apiVersion: agent.instana.com/v1
+kind: PodSet
+metadata:
+  name: podset-sample
+spec:
+  # Add fields here
+  foo: bar
